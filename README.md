@@ -13,11 +13,9 @@ This repo contains an official PyTorch implementation for the paper "[Label-Nois
 
 This paper proposes **Transition-aware weighted Denoising Score Matching (TDSM)** objective for training conditional diffusion models with noisy labels.
 
-<!--
-<img src="./figures/image1.png" width="500" title="example" alt="(a) Examples of noisy labeled datasets of MNIST (top) and CIFAR-10 (bottom), and (b-c) the randomly generated images of baseline and our models, trained with the noisy labeled datasets.">
+<img src="./figures/image1.png" width="1000" title="example" alt="(a) Examples of noisy labeled datasets of MNIST (top) and CIFAR-10 (bottom), and (b-c) the randomly generated images of baseline and our models, trained with the noisy labeled datasets.">
 
-<img src="./figures/overview.png" width="500" title="overview" alt="The training procedure of the proposed approach. The solid black arrows indicate the forward propagation, and the dashed red arrows represent the gradient signal flow. The filled circle operation denotes the dot product operation, and the dashed operation represents the L2 loss. The noisy-label classifier $\tilde{\mathbf{h}}_{\boldsymbol{\phi}^*}$ can be obtained by the cross-entropy loss on the noisy labeled dataset $\tilde{D}$.">
--->
+<img src="./figures/overview.png" width="1000" title="overview" alt="The training procedure of the proposed approach. The solid black arrows indicate the forward propagation, and the dashed red arrows represent the gradient signal flow. The filled circle operation denotes the dot product operation, and the dashed operation represents the L2 loss. The noisy-label classifier $\tilde{\mathbf{h}}_{\boldsymbol{\phi}^*}$ can be obtained by the cross-entropy loss on the noisy labeled dataset $\tilde{D}$.">
 
 ## Requirements
 
