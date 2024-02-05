@@ -1,6 +1,6 @@
 # Label-Noise Robust Diffusion Models (TDSM) (ICLR 2024)
 
-| [openreview](https://openreview.net/forum?id=HXWTXXtHNl) | [dataset](https://www.dropbox.com/scl/fo/807h7bai3qdjwhcq1n0qz/h?rlkey=3z68jap6zifzuf3hxey4jqs2e&dl=0) | [pretrained model](https://www.dropbox.com/scl/fo/rcwt17apifn5qv02bl7hq/h?rlkey=8dvxa8yupjpc98aflgphdwajg&dl=0) |
+| [openreview](https://openreview.net/forum?id=HXWTXXtHNl) | [datasets](https://www.dropbox.com/scl/fo/807h7bai3qdjwhcq1n0qz/h?rlkey=3z68jap6zifzuf3hxey4jqs2e&dl=0) | [checkpoints](https://www.dropbox.com/scl/fo/rcwt17apifn5qv02bl7hq/h?rlkey=8dvxa8yupjpc98aflgphdwajg&dl=0) |
 
 --------------------
 
